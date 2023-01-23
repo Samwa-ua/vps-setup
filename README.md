@@ -87,7 +87,7 @@ Time to start setting up environment.
 ## Installing ZSH
 
 ```bash
-apt install zsh
+sudo apt install zsh
 ```
 
 Installing oh-my-zsh
